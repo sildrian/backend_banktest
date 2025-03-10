@@ -1,5 +1,5 @@
 # backend_banktest
-tes backend untuk menggunakan golang
+Backend test using golang
 
 # Step to run application
 1) Import postgresql database above
