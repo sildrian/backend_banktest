@@ -8,4 +8,5 @@ Backend test using golang
 
 # To run unit test
 - after do preperation above, to run unit test do as below
-- go test .\app\customers\controllers\customers.controller_test.go
+- dont forget to enable database config in customer.service.go (for unit test running well)
+- run, go test .\app\customers\controllers\customers.controller_test.go
